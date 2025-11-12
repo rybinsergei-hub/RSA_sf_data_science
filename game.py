@@ -20,6 +20,3 @@ def random_predict(number:int=1) -> int:
     return(count)
 
 print(f'Количество попыток: {random_predict()}')
-
-
-print('проверка')
